@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-size: 20px;
+}
+
+body {
+  background-color: rgb(26, 33, 55);
+  background-image: linear-gradient(to top, #5f72bd 0%, #9b23ea 100%);
+  color: white;
+}
